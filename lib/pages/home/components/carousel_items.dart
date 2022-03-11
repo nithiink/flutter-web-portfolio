@@ -25,7 +25,7 @@ List<CarouselItemModel> carouselItems = List.generate(
             height: 18.0,
           ),
           Text(
-            "Hello\nHARRINGTON",
+            "Nithiin\nHARRINGTON",
             style: GoogleFonts.oswald(
               color: Colors.white,
               fontSize: 40.0,
